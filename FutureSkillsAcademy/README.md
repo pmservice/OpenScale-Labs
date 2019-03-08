@@ -11,7 +11,7 @@ All instances should be created in **US-South region (Dallas)**
 
 ## Geting started:
 - Create a project in Watson Studio
-- Assosiate created services with the project (Project - Settings)
+- Associate created services with the project (Project - Settings)
 
 
 ## Working with notebook
