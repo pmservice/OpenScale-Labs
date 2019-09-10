@@ -14,7 +14,7 @@ Fill in the registration form and follow the link in the validation email when i
 
 In case of troubles visit: https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/signup-wdp.html?audience=wdp&context=wdp&linkInPage=true
 
-## Provision Watson OpenScale Service Instance
+## Provision Watson OpenScale Service
 
 [Login into IBM Cloud](https://cloud.ibm.com/login) using the account credentials you have registered.
 
