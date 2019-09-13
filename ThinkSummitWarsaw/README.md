@@ -1,12 +1,12 @@
 # Workshop
 
 
-## Workshop Prerequisites
+## Prerequisites
 [Make sure you have completed the Prerequisites before moving to next session](https://github.com/pmservice/OpenScale-Labs/blob/master/ThinkSummitWarsaw/00-prerequisites.md)
 
 ---
 
-## Workshop Instructions
+## Instructions
 
 ### Import project to Watson Studio
 1. Download the [Watson Studio project zip file](https://github.com/pmservice/OpenScale-Labs/raw/master/ThinkSummitWarsaw/Think-Summit-Warsaw-2019.zip)
