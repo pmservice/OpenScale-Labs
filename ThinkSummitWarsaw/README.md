@@ -10,15 +10,28 @@
 
 ### Import project to Watson Studio
 1. Download the [project](https://github.com/pmservice/OpenScale-Labs/raw/master/ThinkSummitWarsaw/Think-Summit-Warsaw-2019.zip)
-2. Import the project by navigating to [New Project](https://dataplatform.cloud.ibm.com/projects/new-project?context=analytics)
+2. Create new project by navigating to [New Project](https://dataplatform.cloud.ibm.com/projects/new-project?context=analytics)
 3. Select **Create a project from a sample or file**
-4. Drag and drop download project zip file
+
+![Create Project](./images/ibm-cloud-new-project.png)
+
+4. Drag and drop download project zip file to import project content
 5. Type the name press **Create**
+
+![Import Project](./images/ibm-cloud-project-import.png)
+
 6. Press **View New Project** button
 
+![View Project](./images/ibm-cloud-view-project.png)
 
 ### Run the notebook
 1. Under Assets - Notebooks section you will find **Watson OpenScale and Machine Learning (Scikit)** notebook
+
+![Create Project](./images/ibm-cloud-notebook.png)
+
 2. Open the notebook by clicking on notebook name
 3. Edit the notebook by pressing edit button (pencil icon)
+
+![Create Project](./images/ibm-cloud-notebook-open.png)
+
 4. Run the notebook cells by pressing play button
