@@ -9,14 +9,14 @@
 ## Workshop Instructions
 
 ### Import project to Watson Studio
-1. Download the [project](https://github.com/pmservice/OpenScale-Labs/raw/master/ThinkSummitWarsaw/Think-Summit-Warsaw-2019.zip)
+1. Download the [Watson Studio project zip file](https://github.com/pmservice/OpenScale-Labs/raw/master/ThinkSummitWarsaw/Think-Summit-Warsaw-2019.zip)
 2. Create new project by navigating to [New Project](https://dataplatform.cloud.ibm.com/projects/new-project?context=analytics)
 3. Select **Create a project from a sample or file**
 
 ![Create Project](./images/ibm-cloud-new-project.png)
 
-4. Drag and drop download project zip file to import project content
-5. Type the name press **Create**
+4. Drag and drop download project zip file
+5. Type the name and press **Create**
 
 ![Import Project](./images/ibm-cloud-project-import.png)
 
