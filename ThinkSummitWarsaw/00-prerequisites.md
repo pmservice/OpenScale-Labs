@@ -1,5 +1,7 @@
 # Workshops Prerequisites
 
+# github.com/pmservice/OpenScale-Labs/ --> ThinkSummitWarsaw
+
 ## Registering Watson Studio Account
 
 Open a browser window and navigate to: https://dataplatform.cloud.ibm.com/registration/stepone?context=wdp&apps=all
